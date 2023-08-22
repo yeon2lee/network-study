@@ -10,12 +10,12 @@
 
 ## 👨‍👩‍👧 인원
 
-- 6명
+- 4명
 - 발표 순서
 
-  |![image](https://avatars.githubusercontent.com/u/92148749?v=4)|![image](https://avatars.githubusercontent.com/u/141324304?v=4)|![image](https://avatars.githubusercontent.com/u/82931413?v=4)|![image](https://avatars.githubusercontent.com/u/116046530?v=4)|![image](https://avatars.githubusercontent.com/u/77628363?v=4)|![image](https://avatars.githubusercontent.com/u/65996149?v=4)|
-  |:---:|:---:|:---:|:---:|:---:|:---:|
-  |[김유빈](https://github.com/kyukong)|[김희연](https://github.com/YeonieKim)|[신동희](https://github.com/easydong02)|[박수원](https://github.com/Suwon-Park)|[이나연](https://github.com/yeon2lee)|[오유라](https://github.com/o-dev-lab)|
+  |![image](https://avatars.githubusercontent.com/u/92148749?v=4)|![image](https://avatars.githubusercontent.com/u/77628363?v=4)|![image](https://avatars.githubusercontent.com/u/65996149?v=4) |![image](https://avatars.githubusercontent.com/u/82931413?v=4)|
+  |:---:|:---:|:---:|:---:|
+  |[김유빈](https://github.com/kyukong)|[이나연](https://github.com/yeon2lee)|[오유경](https://github.com/o-dev-lab)|[신동희](https://github.com/easydong02)|
 
 ## 🚀 진행내용
 
@@ -74,7 +74,7 @@ Story 04. 프로토콜 스택에 메시지 송신을 의뢰한다
 
 ### Chapter 02. TCP/IP의 데이터를 전기신호로 만들어 보낸다 - 프로토콜 스택과 LAN 어댑터의 탐험
 
-**3주차 - 8/24**
+**3주차 - 8/24 -> 8/23(수) 진행**
 
 Story 01. 소켓을 작성한다
 
