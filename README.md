@@ -10,19 +10,17 @@
 
 ## 👨‍👩‍👧 인원
 
-- 4명
-- 발표 순서
+- 3명
+- 팀원
 
-  |![image](https://avatars.githubusercontent.com/u/92148749?v=4)|![image](https://avatars.githubusercontent.com/u/77628363?v=4)|![image](https://avatars.githubusercontent.com/u/65996149?v=4) |![image](https://avatars.githubusercontent.com/u/82931413?v=4)|
-  |:---:|:---:|:---:|:---:|
-  |[김유빈](https://github.com/kyukong)|[이나연](https://github.com/yeon2lee)|[오유경](https://github.com/o-dev-lab)|[신동희](https://github.com/easydong02)|
+  |![image](https://avatars.githubusercontent.com/u/92148749?v=4)|![image](https://avatars.githubusercontent.com/u/77628363?v=4)|![image](https://avatars.githubusercontent.com/u/65996149?v=4) |
+  |:---:|:---:|:---:|
+  |[김유빈](https://github.com/kyukong)|[이나연](https://github.com/yeon2lee)|[오유경](https://github.com/o-dev-lab)|
 
 ## 🚀 진행내용
 
 - 모든 인원은 일주일에 한 번씩 깃허브에 학습 내용을 정리해요.
-- 발표자는 학습한 내용을 다른 팀원들에게 발표해요.
-- 발표자 외 다른 팀원들은 발표자에게 인터뷰를 진행해요.
-- 서기는 인터뷰 질문들은 모두 기록해요.
+- 학습 내용을 바탕으로 토론을 진행해요.
 
 ## 📑 진행방식
 
@@ -38,23 +36,17 @@
 - PR 은 발표 및 인터뷰가 끝난 후 스터디장이 머지해요.
 - **학습 내용을 정리하지 않을 경우 5,000원의 벌금이 있어요.**
 
-### 2. 발표 진행
+### 2. 토론 진행
 
-- 발표자는 처음 정한 순서대로 돌아가며 진행해요.
-- 발표자는 10분동안 학습한 내용을 다른 팀원들에게 설명해요.
-- 발표가 끝나면 발표자 외 팀원들은 발표자에게 10분동안 질문해요.
-    - 책에 작성되어 있지 않은 부분도 질문이 가능하지만 지식 자랑이 아닌, 공유 목적이면 가능해요.
-- 다음주 발표자가 서기를 맡아 인터뷰 질문들을 기록해요.
-    - 이번주 챕터에 해당하는 폴더에 해당 날짜 및 챕터 정보가 포함된 `.md` 파일에 작성해요.
-        - ex. 2023-08-01_Ch01_Story01_02.md
-- 작성한 파일을 PR 로 올리면 스터디 종료 후 스터디장이 머지해요.
-    - PR 제목 : XXXX-XX-XX ChapterXX StoryXX~XX
-- **발표 자리에 참석하지 않을 경우 10,000원의 벌금이 있어요.**
+- 학습한 내용을 바탕으로 자유롭게 토론을 진행해요.
+  - 학습하면서 이해가 안갔던 점, 더 나아가 알고 싶은 점 등에 대해 이야기를 나누어요.
+- **토론 자리에 참석하지 않을 경우 10,000원의 벌금이 있어요.**
   - 모인 벌금들은 스터디 종료 후 각자 n분의 1로 나누어 가질 예정이에요. 😄 
+  - 참석이 어려울 경우 미리 말씀해주세요!
 
 ### 3. 마무리 회고
 
-- 발표 및 인터뷰를 마치고 5분동안 간단한 회고를 진행해요.
+- 토론을 마치고 간단한 회고를 진행해요.
 
 ## 📖 학습 내용 순서
 
