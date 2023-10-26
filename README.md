@@ -50,7 +50,7 @@
 
 ## 📖 학습 내용 순서
 
-### Chapter 01. 웹 브라우저가 메시지를 만든다 - 웹 브라우저의 내부 탐험
+### [Chapter 01. 웹 브라우저가 메시지를 만든다 - 웹 브라우저의 내부 탐험](https://github.com/kyukong/network-study/tree/main/Chapter01_%EC%9B%B9_%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EA%B0%80_%EB%A9%94%EC%8B%9C%EC%A7%80%EB%A5%BC_%EB%A7%8C%EB%93%A0%EB%8B%A4)
 
 **1주차 - 8/10**
 
@@ -64,7 +64,7 @@ Story 03. 전 세계의 DNS 서버가 연대한다
 
 Story 04. 프로토콜 스택에 메시지 송신을 의뢰한다
 
-### Chapter 02. TCP/IP의 데이터를 전기신호로 만들어 보낸다 - 프로토콜 스택과 LAN 어댑터의 탐험
+### [Chapter 02. TCP/IP의 데이터를 전기신호로 만들어 보낸다 - 프로토콜 스택과 LAN 어댑터의 탐험](https://github.com/kyukong/network-study/tree/main/Chapter02_TCP_IP%EC%9D%98_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC_%EC%A0%84%EA%B8%B0%EC%8B%A0%ED%98%B8%EB%A1%9C_%EB%A7%8C%EB%93%A4%EC%96%B4_%EB%B3%B4%EB%82%B8%EB%8B%A4)
 
 **3주차 - 8/24 -> 8/23(수) 진행**
 
@@ -82,7 +82,7 @@ Story 05. IP와 이더넷의 패킷 송ㆍ수신 동작
 
 Story 06. UDP 프로토콜을 이용한 송ㆍ수신 동작
 
-### Chapter 03. 케이블의 앞은 LAN 기기였다 - 허브와 스위치, 라우터의 탐험
+### [Chapter 03. 케이블의 앞은 LAN 기기였다 - 허브와 스위치, 라우터의 탐험](https://github.com/kyukong/network-study/tree/main/Chapter03_%EC%BC%80%EC%9D%B4%EB%B8%94%EC%9D%98_%EC%95%9E%EC%9D%80_LAN_%EA%B8%B0%EA%B8%B0%EC%98%80%EB%8B%A4)
 
 **5주차 - 9/7**
 
@@ -96,7 +96,7 @@ Story 03. 라우터의 패킷 중계 동작
 
 Story 04. 라우터의 부가 기능
 
-### Chapter 04. 액세스 회선을 통해 인터넷의 내부로! - 액세스 회선과 프로바이더의 탐험
+### [Chapter 04. 액세스 회선을 통해 인터넷의 내부로! - 액세스 회선과 프로바이더의 탐험](https://github.com/kyukong/network-study/tree/main/Chapter04_%EC%95%A1%EC%84%B8%EC%8A%A4_%ED%9A%8C%EC%84%A0%EC%9D%84_%ED%86%B5%ED%95%B4_%EC%9D%B8%ED%84%B0%EB%84%B7%EC%9D%98_%EB%82%B4%EB%B6%80%EB%A1%9C)
 
 **7주차 - 9/21**
 
@@ -112,7 +112,7 @@ Story 04. 프로바이더의 내부
 
 Story 05. 프로바이더를 경유하여 흐르는 패킷
 
-### Chapter 05. 서버측의 LAN에는 무엇이 있는가 - 방화벽과 캐시 서버의 탐험
+### [Chapter 05. 서버측의 LAN에는 무엇이 있는가 - 방화벽과 캐시 서버의 탐험](https://github.com/kyukong/network-study/tree/main/Chapter05_%EC%84%9C%EB%B2%84%EC%B8%A1%EC%9D%98_LAN%EC%97%90%EB%8A%94_%EB%AC%B4%EC%97%87%EC%9D%B4_%EC%9E%88%EB%8A%94%EA%B0%80)
 
 **9주차 - 10/5**
 
@@ -128,7 +128,7 @@ Story 04. 캐시 서버를 이용한 서버의 부하 분산
 
 Story 05. 콘텐츠 배포 서비스
 
-### Chapter 06. 웹 서버에 도착하여 응답 데이터가 웹 브라우저로 돌아간다 - 불과 몇 초인 '긴 여행'의 끝
+### [Chapter 06. 웹 서버에 도착하여 응답 데이터가 웹 브라우저로 돌아간다 - 불과 몇 초인 '긴 여행'의 끝](https://github.com/kyukong/network-study/tree/main/Chapter06_%EC%9B%B9_%EC%84%9C%EB%B2%84%EC%97%90_%EB%8F%84%EC%B0%A9%ED%95%98%EC%97%AC_%EC%9D%91%EB%8B%B5_%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B0%80_%EC%9B%B9_%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EB%A1%9C_%EB%8F%8C%EC%95%84%EA%B0%84%EB%8B%A4)
 
 **11주차 - 10/19**
 
